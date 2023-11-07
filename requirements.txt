@@ -1,0 +1,4 @@
+gradio
+whisper
+openai
+python-dotenv
